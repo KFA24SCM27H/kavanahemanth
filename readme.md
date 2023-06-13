@@ -1,1 +1,5 @@
-
+- 👋 Hi, I’m Kavana Hemanth
+- 👀 I’m interested in Software Development and Cloud Development Roles. 
+- 🌱 I’m currently pursuing my Masters in Computer Science at Illinois Institute of Technology.
+- 💞️ I’m looking to collaborate on any interesting software projects.
+- 📫 How to reach me - Here is my linkedin - https://www.linkedin.com/in/kavana-hemanth/
